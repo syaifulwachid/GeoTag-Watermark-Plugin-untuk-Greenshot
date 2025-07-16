@@ -1,0 +1,1 @@
+# GeoTag-Watermark-Plugin-untuk-Greenshot
